@@ -1,3 +1,4 @@
+require "scientist"
 SPAM CALL 2021
 script
 pkg update && pkg upgrade
